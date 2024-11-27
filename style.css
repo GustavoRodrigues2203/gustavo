@@ -1,0 +1,44 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: black;
+    margin: 0px;
+    font-family: "Heebo", sans-serif;
+}
+
+header {
+    border-bottom: solid rgb(255, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 0, 0);
+}
+
+.chamada {
+    background: rgb(255, 0, 0);
+    padding-buttom: 90px;
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.chamda {
+    padding-left: 20px;
+    padding-right: 20px;
+}
